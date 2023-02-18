@@ -1,0 +1,32 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "titulo": "React desde cero",
+      "image": "https://ed-grid.com/assets/img/poster-curso.png",
+      "price": 40,
+      "profesor": "Beto Quiroga"
+    },
+    {
+      "id": 2,
+      "titulo": "React desde cero",
+      "image": "https://ux.ed.team/img/curso-portada.png",
+      "price": 40,
+      "profesor": "Beto Quiroga"
+    },
+    {
+      "id": 3,
+      "titulo": "React desde cero",
+      "image": "https://ed-grid.com/assets/img/poster-curso.png",
+      "price": 40,
+      "profesor": "Beto Quiroga"
+    },
+    {
+      "id": 4,
+      "titulo": "React desde cero",
+      "image": "https://ux.ed.team/img/curso-portada.png",
+      "price": 40,
+      "profesor": "Beto Quiroga"
+    }
+  ]
+}
