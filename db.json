@@ -5,28 +5,28 @@
       "titulo": "Sapper - SSR con Svelte",
       "image": "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2Fdf487528-227b-460c-96ad-09950086e0f7.png&w=640&q=75",
       "price": 14,
-      "profesor": "Diego Adrian"
+      "professor": "Diego Adrian"
     },
     {
       "id": 2,
       "titulo": "JavaScript desde cero",
       "image": "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2F1fc49db5-2454-43e5-b94b-bed0d98719f2.png&w=3840&q=75",
       "price": 20,
-      "profesor": "Beto Quiroga"
+      "professor": "Beto Quiroga"
     },
     {
       "id": 3,
       "titulo": "Ruby on Rails desde cero",
       "image": "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2F39dd6eb2-bb40-409f-b95f-c21d6542bb78.png&w=3840&q=75",
       "price": 20,
-      "profesor": "Héctor Tello"
+      "professor": "Héctor Tello"
     },
     {
       "id": 4,
       "titulo": "Laravel 9 desde cero",
       "image": "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2F5acb325f-217e-4f5d-a7de-c1934464af3e.png&w=828&q=75",
       "price": 14,
-      "profesor": "Jairo Ushiña"
+      "professor": "Jairo Ushiña"
     }
   ]
 }
